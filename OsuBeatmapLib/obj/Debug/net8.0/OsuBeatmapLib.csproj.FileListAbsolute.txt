@@ -1,0 +1,11 @@
+D:\Dev\C#\OsuBeatmapLib\bin\Debug\net8.0\OsuBeatmapLib.deps.json
+D:\Dev\C#\OsuBeatmapLib\bin\Debug\net8.0\OsuBeatmapLib.dll
+D:\Dev\C#\OsuBeatmapLib\bin\Debug\net8.0\OsuBeatmapLib.pdb
+D:\Dev\C#\OsuBeatmapLib\obj\Debug\net8.0\OsuBeatmapLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\C#\OsuBeatmapLib\obj\Debug\net8.0\OsuBeatmapLib.AssemblyInfoInputs.cache
+D:\Dev\C#\OsuBeatmapLib\obj\Debug\net8.0\OsuBeatmapLib.AssemblyInfo.cs
+D:\Dev\C#\OsuBeatmapLib\obj\Debug\net8.0\OsuBeatmapLib.csproj.CoreCompileInputs.cache
+D:\Dev\C#\OsuBeatmapLib\obj\Debug\net8.0\OsuBeatmapLib.dll
+D:\Dev\C#\OsuBeatmapLib\obj\Debug\net8.0\refint\OsuBeatmapLib.dll
+D:\Dev\C#\OsuBeatmapLib\obj\Debug\net8.0\OsuBeatmapLib.pdb
+D:\Dev\C#\OsuBeatmapLib\obj\Debug\net8.0\ref\OsuBeatmapLib.dll

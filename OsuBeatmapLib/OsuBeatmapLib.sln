@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35728.132 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OsuBeatmapLib", "OsuBeatmapLib.csproj", "{19AD30A5-9A78-4FD8-8A90-0C8B50338787}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OsuBeatmapLibTest", "OsuBeatmapLibTest\OsuBeatmapLibTest.csproj", "{172EA7BD-067B-42A1-AE2B-D2021B7241BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19AD30A5-9A78-4FD8-8A90-0C8B50338787}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19AD30A5-9A78-4FD8-8A90-0C8B50338787}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19AD30A5-9A78-4FD8-8A90-0C8B50338787}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19AD30A5-9A78-4FD8-8A90-0C8B50338787}.Release|Any CPU.Build.0 = Release|Any CPU
+		{172EA7BD-067B-42A1-AE2B-D2021B7241BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{172EA7BD-067B-42A1-AE2B-D2021B7241BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{172EA7BD-067B-42A1-AE2B-D2021B7241BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{172EA7BD-067B-42A1-AE2B-D2021B7241BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
