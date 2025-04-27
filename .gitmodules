@@ -1,0 +1,3 @@
+[submodule "gameInterface"]
+	path = gameInterface
+	url = git@github.com:WEIoct/TaikoVR.git
